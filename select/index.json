@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Walkin' In My Lane",
+  "base_artist": "milet",
+  "createdAt": "2025-12-14T10:59:15.524311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walkin' In My Lane",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/01_Walkin'_In_My_Lane_milet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walkin' In My Lane",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/02_Walkin'_In_My_Lane_milet.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walkin' In My Lane",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/03_Walkin'_In_My_Lane_milet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walkin' In My Lane(Live at 日本武道館)",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/04_Walkin'_In_My_Lane(Live_at_日本武道館)_milet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walkin' In My Lane [Live]",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/05_Walkin'_In_My_Lane_[Live]_milet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walkin' In My Lane",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Walkin'_In_My_Lane_milet.txt"
+    }
+  ]
+}

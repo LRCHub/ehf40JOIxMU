@@ -1,0 +1,97 @@
+# milet – Walkin' In My Lane
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+わかってないとか言われたって
+笑ってばっかじゃいられなくて
+Can't go back
+But we know that we can go far
+
+Make a wish
+Hey what are you doin' doin' doin' do without me
+こんな日に限って
+
+Now, mayday
+吹き消すキャンドルは増えても sorry
+思い出を rolling
+
+なのになぜ lonley lonley
+日々はスローモーションのように
+霞んで見えるのかな
+誰もが同じかな
+一人ぼっち同士
+逆らってこうぜ どうせ
+期限付き life time を
+飽きるまで Why don't we slip away
+
+わかってないとか言われたって
+笑ってばっかじゃいられなくて
+Can't go back
+But we know that we can go far
+
+I know, I know あと少しだって
+騙し騙し 回り道だって見たいのは
+酸いも甘いも溶かすよ lovestruck
+
+Ah ah ah ah
+いつまで待っていたって It's never enough
+Look into my eyes
+You're my life
+Will you stay tonight
+Ah ah ah
+反射的な "I love you" じゃもう足りない
+ないものねだり ねえ darling
+There's no need for goodbye
+
+Stay awake
+泣けない理由が増えては falling
+1人の夜に
+
+Now you miss me?
+押し潰す恋しさを枕の裏に
+眠れず Who saves me
+
+いつまでも lonley lonley
+わかったつもりなのに
+私をほどいてよ
+誰より求めてよ
+何度強がってみたって
+愛してしまうんだ どうせ
+期限付き life time を
+飽きるまで Why don't we slip away
+
+わかってないとか言われたって
+笑ってばっかじゃいられなくて
+Can't go back
+But we know that we can go far
+
+I know, I know あと少しだって
+騙し騙し 回り道だって見たいのは
+酸いも甘いも溶かすよ lovestruck
+
+Oh nothing has changed
+I'm walkin' in my lane
+Like dancing in the rain with you
+
+わかってないとか言われたって
+笑ってばっかじゃいられなくて
+Can't go back
+But we know that we can go far
+
+I know, I know あと少しだって
+騙し騙し 回り道だって見たいのは
+酸いも甘いも溶かすよ lovestruck
+
+Ah ah ah ah
+いつまで待っていたって It's never enough
+Look into my eyes
+You're my life
+Will you stay tonight
+Ah ah ah
+反射的な "I love you" じゃもう足りない
+ないものねだり ねえ darling
+There's no need for goodbye
+
+We know that we can go far
+```
